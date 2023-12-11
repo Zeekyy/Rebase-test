@@ -25,3 +25,11 @@ Le rebasage (rebase) est une opération Git qui permet de fusionner une branche 
 3. **Facilite la Résolution des Conflits :** En résolvant les conflits au fur et à mesure des commits, il est plus facile de gérer les conflits.
 
 https://www.youtube.com/watch?v=F2LVk8zjAa0&ab_channel=TomAgro
+
+Rebase: 
+![image](https://github.com/Zeekyy/Rebase-test/assets/75806615/e335b213-e89f-4453-b70c-a42fa426c8e1)
+
+Merge:
+![image](https://github.com/Zeekyy/Rebase-test/assets/75806615/3e97dc1e-236c-4af8-bd99-b1c44b69452e)
+
+
